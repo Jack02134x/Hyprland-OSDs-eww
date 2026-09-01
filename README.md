@@ -4,7 +4,7 @@
 In this repo i created very minimal volume and brightness OSDs for Hyprland using eww. I made it becuase I had quite the trouble finding some premade ones.
 
 
-# Installation
+## Installation
 
 ```
 git clone https://github.com/Jack02134x/Hyprland-OSDs-eww.git
@@ -13,7 +13,7 @@ cd Hyprland-OSDs-eww
 cp -r scripts/ eww.scss eww.yuck ~/.config/eww
 ```
 
-*Then inside hyprland.lua config*
+### Then inside hyprland.lua config
 
 ```
 # FOR VOLUME --------
