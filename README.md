@@ -47,7 +47,10 @@ Eww can be installed from the AUR:
 
 ```bash
 paru -S eww
-# or
+```
+OR
+
+```bash
 yay -S eww
 ```
 
